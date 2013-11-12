@@ -11,9 +11,7 @@ $(function(){
   $(document).one('click',function() {
      setInterval(function() {
       if(window_focus == false){
-        console.log("false");
-      }else{
-        console.log("true");
+       	//what to do?
       }
     }, 1000);
   });
