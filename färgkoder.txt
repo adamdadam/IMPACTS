@@ -1,2 +1,2 @@
 ﻿bakgrundsfärg: #cfdbe4
-mitten kolumn: #cfdbe4
+mitten kolumn: #edf0f2
