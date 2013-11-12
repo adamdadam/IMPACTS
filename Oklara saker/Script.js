@@ -11,7 +11,7 @@ $(function(){
   $(document).one('click',function() {
      setInterval(function() {
       if(window_focus == false){
-       	//what to do?
+       	//what to do? 
       }
     }, 1000);
   });
