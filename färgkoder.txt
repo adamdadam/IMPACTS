@@ -1,2 +1,2 @@
-bakgrundsf�rg: #cfdbe4
+﻿bakgrundsfärg: #cfdbe4
 mitten kolumn: #cfdbe4
